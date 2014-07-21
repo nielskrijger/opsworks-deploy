@@ -1,0 +1,9 @@
+.idea
+atlassian-ide-plugin.xml
+coverage
+report
+dist
+node_modules
+blueprint.md
+*.log
+*.iml
